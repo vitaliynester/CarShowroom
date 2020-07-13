@@ -61,12 +61,65 @@
 
 ## Изображения проекта
 
-![](/Images/InfoModel.png "Инфологическая модель базы данных")
-![](/Images/PhysModel.png "Физическая модель базы данных")
-![](/Images/LoginUser.png "Окно авторизации пользователя")
-![](/Images/RegUser.png "Окно регистрации нового пользователя")
-![](/Images/HomePage.png "Главное окно пользователя")
-![](/Images/RentCarList.png "Список автомобилей доступных для аренды")
-![](/Images/RentCarAbout.png "Окно аренды автомобиля")
-![](/Images/ScoreList.png "Окно истории счета пользователя")
-![](/Images/SettingsPage.png "Окно настройки пользователя")
+<p align="center">
+  <b>Инфологическая модель базы данных</b>
+</p>
+<p align="center">
+  <img src="/Images/InfoModel.png">
+</p>
+
+<p align="center">
+  <b>Физическая модель базы данных</b>
+</p>
+<p align="center">
+  <img src="/Images/PhysModel.png">
+</p>
+
+<p align="center">
+  <b>Окно авторизации пользователя</b>
+</p>
+<p align="center">
+  <img src="/Images/LoginUser.png">
+</p>
+
+<p align="center">
+  <b>Окно регистрации нового пользователя</b>
+</p>
+<p align="center">
+  <img src="/Images/RegUser.png">
+</p>
+
+<p align="center">
+  <b>Главное окно пользователя</b>
+</p>
+<p align="center">
+  <img src="/Images/HomePage.png">
+</p>
+
+<p align="center">
+  <b>Список автомобилей доступных для аренды</b>
+</p>
+<p align="center">
+  <img src="/Images/RentCarList.png">
+</p>
+
+<p align="center">
+  <b>Окно аренды автомобиля</b>
+</p>
+<p align="center">
+  <img src="/Images/RentCarAbout.png">
+</p>
+
+<p align="center">
+  <b>Окно истории счета пользователя</b>
+</p>
+<p align="center">
+  <img src="/Images/ScoreList.png">
+</p>
+
+<p align="center">
+  <b>Окно настройки пользователя</b>
+</p>
+<p align="center">
+  <img src="/Images/SettingsPage.png">
+</p>
